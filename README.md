@@ -14,6 +14,12 @@
 - **Firebase Firestore** - baza danych w chmurze
 - **Google Play Services** - usługi lokalizacji
 
+## Konfiguracja
+
+1. Pobierz `google-services.json` 
+2. Umieść plik w folderze `app/`
+3. Skonfiguruj klucz Google Maps API w `AndroidManifest.xml`
+
 ### Instrukcja użytkowania:
 
 4. **Opisz zdarzenie** w formularzu i zatwierdź
