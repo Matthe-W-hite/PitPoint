@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "29018500170",
+    "project_id": "pitpoint-1c1ea",
+    "storage_bucket": "pitpoint-1c1ea.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:29018500170:android:72da0cf6f3bb7822d54ab3",
+        "android_client_info": {
+          "package_name": "com.example.pitpoint"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCO-xD9_XiVxD1uzfFLErUq_5dhdLRHgUM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
